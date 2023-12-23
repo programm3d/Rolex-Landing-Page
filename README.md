@@ -15,5 +15,4 @@ This repository contains the codebase for a sleek and visually stunning landing 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/rolex-landing-page.git
-](https://github.com/programm3d/Rolex-Landing-Page.git)https://github.com/programm3d/Rolex-Landing-Page.git
+   git clone (https://github.com/programm3d/Rolex-Landing-Page.git)
