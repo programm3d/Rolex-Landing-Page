@@ -16,3 +16,5 @@ This repository contains the codebase for a sleek and visually stunning landing 
 1. **Clone the Repository:**
    ```bash
    git clone (https://github.com/programm3d/Rolex-Landing-Page.git)
+
+## [Click to view the Live Project](https://65cb35f70868ae7917de4d8d--melodious-bonbon-7b035d.netlify.app/)
